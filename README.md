@@ -2,4 +2,4 @@ This repository contains the codes (in Jupyter Notebook) used for designing a pa
 
 
 #### Main Manuscript:
-Nayyara P, Permana D, Ermawar RA, Fahayana R (2024) Computational analysis into the potential of azo dyes as a feedstock for actinorhodin biosynthesis in Pseudomonas putida. PLOS ONE 19(3): e0299128. https://doi.org/10.1371/journal.pone.0299128
+Nayyara P, Permana D, Ermawar RA, Fahayana R (2024) *Computational analysis into the potential of azo dyes as a feedstock for actinorhodin biosynthesis in Pseudomonas putida*. PLOS ONE 19(3): e0299128. https://doi.org/10.1371/journal.pone.0299128
